@@ -1,3 +1,5 @@
 # project-codename-vitae
 
-Nest.js CV platform WIP
+Nest.js CV platform
+
+WIP
